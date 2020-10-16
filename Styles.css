@@ -1,0 +1,20 @@
+body{
+    background-color: #242f3f;
+}
+img{
+    max-width:250px;
+    max-height: 250px;
+    border: #242f3f solid;
+}
+
+#mapid{
+    height: 350px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+#weather{
+    margin: auto;
+    padding: auto;
+    
+}
